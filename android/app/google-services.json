@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197617117040",
+    "project_id": "chatappflutter-61c33",
+    "storage_bucket": "chatappflutter-61c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197617117040:android:a22d87dd5cc8df009cd1b5",
+        "android_client_info": {
+          "package_name": "com.trolific.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197617117040-me2j7mtv8e4hejg44ckkrkqqiv3tq4a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-rY7754STeMAoG1RyTeVvzLd4MuToosg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197617117040-me2j7mtv8e4hejg44ckkrkqqiv3tq4a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
